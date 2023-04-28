@@ -126,8 +126,6 @@ namespace RomanNumeralEncoder
                     m = m - 1;
                 }
 
-
-                var number = new StringBuilder();
             }
 
             return romanNumeral;
